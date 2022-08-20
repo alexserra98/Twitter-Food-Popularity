@@ -8,3 +8,10 @@ In order to test the quality of our models we then relied on standard metrics as
 
 ![scores-log](https://user-images.githubusercontent.com/92575770/185755612-07dd4504-5689-4e1e-ad10-0ec009701e45.png)
 
+## Results and Further Development
+Unfortunately our efforts led to mild results in the test set. Due to the complexity of popularity phenomena
+it might be necessary a deeper grasp of the social dynamics underlying.
+As a matter of fact, the implementation of more refined tools, capable of capturing
+those dynamics, can be addressed to further developments. On the other
+hand, we can not exclude that the question as we intended it may not have a
+satisfying answer, given the intrinsic randomness in the human nature.
